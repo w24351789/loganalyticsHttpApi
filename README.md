@@ -11,7 +11,6 @@
 3. 取得Log Analytics space id 和Key
 4. 將get 來的body post 到 Log Analytics
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74dc782b-580d-427c-ad2d-76bc98c6d357/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74dc782b-580d-427c-ad2d-76bc98c6d357/Untitled.png)
 
 幣安API
 
